@@ -1,0 +1,4 @@
+﻿  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
+  Account.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  Yarab.vcxproj -> D:\CLG\Secon year\Second Semster\2017\OOP\Project OOP\Yarab - Copy - Copy - Copy - Copy - Copy\x64\Debug\Yarab.exe
+  Yarab.vcxproj -> D:\CLG\Secon year\Second Semster\2017\OOP\Project OOP\Yarab - Copy - Copy - Copy - Copy - Copy\x64\Debug\Yarab.pdb (Partial PDB)
