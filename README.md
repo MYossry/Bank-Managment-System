@@ -11,7 +11,7 @@ Functionalities:
 1.	Sign up users.
 2.	Adding, removing and account.
 3.	Add and withdraw money (saving, checking) accounts.
-4.	Inquiry about the account.
+4.	Show details of the account.
 5.	Calculate benefits for saving account and on loan account every month.
 6.	Removing loan or saving account if they pay there dept. 
 7.	Show user and processes on the system (Admin).
